@@ -2,5 +2,5 @@
 - 👀 I’m interested in Data Science and AI/ML
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on innovative AI/ML projects and data science research.
-- 📫 How to reach me: You can contact me via email at saifuddinshaikh0627@gmail.com or connect with me on LinkedIn at linkedin.com/in/shaikhsaifuddin
+- 📫 How to reach me: You can contact me via Email at saifuddinshaikh0627@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/shaikh-saifuddin
 - 😄 Pronouns: He/Him
