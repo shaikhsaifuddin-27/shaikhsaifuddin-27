@@ -1,12 +1,6 @@
 - 👋 Hi, I’m Shaikh Saifuddin
 - 👀 I’m interested in Data Science and AI/ML
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-shaikhsaifuddin-27/shaikhsaifuddin-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on innovative AI/ML projects and data science research.
+- 📫 How to reach me: You can contact me via email at saifuddinshaikh0627@gmail.com or connect with me on LinkedIn at linkedin.com/in/shaikhsaifuddin
+- 😄 Pronouns: He/Him
